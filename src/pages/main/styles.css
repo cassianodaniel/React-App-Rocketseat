@@ -1,0 +1,13 @@
+.product-list{
+    max-width: 700px; /*largura máxima para quando a tela for grande, ficar centralizada*/
+    margin: 20px auto 0; /*margem de 20px topo, auto em direita e esquerda, 0 em baixo*/
+    padding: 0 20 px; /*padrão para não ficar grudado nas laterais*/
+}
+
+.product-list article{
+    background: #FFF;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px; /*espaçamento de 20px*/
+}
